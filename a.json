@@ -7,6 +7,7 @@
         "ec2:TerminateInstances",
         "ec2:StopInstances",
         "ec2:StartInstances",
+        "ec2:RebootInstances", 
         "ec2:ModifyInstanceAttribute",
         "ec2:ModifyVolume",
         "ec2:DetachVolume",
